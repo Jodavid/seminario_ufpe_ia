@@ -1,0 +1,810 @@
+---
+title: "Inteligência Artificial , Machine Learning e Estatística:"
+subtitle: "Conceitos, Ferramentas da área e visão geral sobre mercado de trabalho"
+author: "Jodavid Ferreira"
+institute: "UFPB - PPGMDS | HartB Group"
+title-slide-attributes:
+  data-background-image: images/ml_background.png
+  data-background-size: contain
+  data-background-opacity: "0.2"
+format:
+  revealjs:
+    slide-number: c/t
+    css: ["theme/theme.css"]
+    theme: default #dark
+    footer: "Inteligência Artificial , Machine Learning e Estatística - [Jodavid Ferreira](https://jodavid.github.io/)"
+    logo: "images/logo.png"
+    smaller: True
+editor_options: 
+  chunk_output_type: inline
+---
+
+## Tópicos abordados
+
+<hr/>
+
+<br />
+
+
+* O que é Ciência de Dados;
+
+<p/>
+
+*  Conceitos básicos da ciência de dados;
+
+<p/>
+
+*  Algumas exemplos de áreas que utilizam Ciência de dados;
+
+<p/>
+*  Pilares para cientista de dados;
+
+<p/>
+*  O que esperar do mercado de trabalho?
+
+
+------------------------------------------------------------------------
+
+## Atuais áreas existentes
+
+<hr/>
+
+<br/>
+
+Atualmente no mercado de trabalho, nomenclaturas estão surgindo para diferenciar as áreas que trabalham com dados.
+As mais frequentes atualmente são:
+
+<br/>
+
+* Engenheiro de dados;
+
+<p/>
+
+* Analista de dados;
+
+<p/>
+
+* Cientista de Dados;
+
+<p/>
+* Engenheiro de Machine Learning;
+
+
+------------------------------------------------------------------------
+
+
+## Atuais áreas existentes
+
+<hr/>
+
+<br/>
+
+Atualmente no mercado de trabalho, nomenclaturas estão surgindo para diferenciar as áreas que trabalham com dados.
+As mais frequentes atualmente são:
+
+<br/>
+
+* Engenheiro de dados;
+
+<p/>
+
+* Analista de dados;
+
+<p/>
+
+* <u>**Cientista de Dados**</u>;
+
+<p/>
+* Engenheiro de Machine Learning;
+
+
+------------------------------------------------------------------------
+
+## O que é ciência de dados?
+
+<hr/>
+
+<br/> 
+
+*  O data science é um dos assuntos
+em evidência atualmente, está alta na mídia, redes sociais, em livros, jornais de negócio, em
+conferências, entre outros lugares
+
+* Existem os que falam que "é considerado o emprego mais sexy do Século 21". 
+
+<br/>
+
+> Pode-se **definir** de forma prática o data science, como um conjuntos de princípios fundamentais
+que norteiam a extração de conhecimento a partir de dados, transformando tais dados por
+meio da matemática e estatística em insights, decisões e produtos valiosos.
+
+------------------------------------------------------------------------
+
+## O que é ciência de dados?
+
+<hr/>
+
+<br/> 
+
+Entretanto essa é uma definição centrada em negócios, e uma questionamento que pode surgir
+é:
+
+<br/> 
+
+Por que dessa definição nesse contexto?
+
+
+> E como resposta, temos que: Não estamos nisso por motivos de achar que os dados possuem
+um mérito estético ou por considerar o emprego como o mais sexy do século, mas, estamos
+nisso porque queremos através da ciência de dados ajudar nossa organização a funcionar
+melhor, gerando valor através dos dados analisados.
+
+
+------------------------------------------------------------------------
+
+## O que é ciência de dados?
+
+<hr/>
+
+<br/> 
+
+Atualmente, o data science é sinônimo ou está relacionando a termos como:
+
+* business analytics,
+* pesquisa operacional,
+* business intelligence,
+* competitive intelligence,
+* análise de dados,
+* modelagem e extração de conhecimento,
+* entre outros campos de pesquisa e atuação
+
+mas isso é apenas um novo giro ou nomenclatura em áreas que existem a muito tempo.
+
+![](images/ufal/download_bi.jpeg){.absolute bottom=200 right=0 width="450"}
+
+------------------------------------------------------------------------
+
+## O que é ciência de dados?
+
+<hr/>
+
+<br/> 
+
+Graças ao avanço de tecnologias computacionais a
+
+nível de *hardware* e *software*
+
+<br/> 
+
+* coletar,
+* armazenar e
+* analisar dados (e grandes volumes de dados)
+
+<br/> 
+
+dessa forma as técnicas estatísticas e computacionais que são utilizadas no data science ganharam uma âncora
+em negócios nos últimos anos;
+
+![](images/cor.png){.absolute bottom=230 right=0 width="350"}
+
+------------------------------------------------------------------------
+
+## Cenário Atual - Mundo
+
+<hr/>
+
+<br/> 
+
+* Atualmente, existem aproximadamente **50 bilhões** de dispositivos conectados à internet;
+
+* **7.4 bilhões** de pessoas vivendo em nosso planeta.
+
+* Essas conexões entre pessoas e dispositivos geram uma massa de dados estimada em **5 zettabytes**.
+
+
+Para se ter uma ideia do que isso significa, vamos entender rapidamente a estrutura de armazenamento de dados com exemplos que temos no cotidiano.
+
+![](images/predictive-analytics-computer-icons-data-analysis-business-intelligence-statistical-information-analysis-59d1882286ede637d0ff63e9ac65936c.png){.absolute bottom=0 right=50 width="300"}
+
+
+------------------------------------------------------------------------
+
+## Cenário Atual - Mundo
+
+<hr/>
+
+![](images/ufal/1_b-X6jefi9190lQaH33KkDA.webp){.absolute bottom=40 right=0 width="500"}
+
+* bit (b)
+* byte (B) 
+* kilobyte (KB)
+* megabyte (MB)
+* gigabyte (GB) 
+* terabyte (TB)
+* petabyte (PB)
+* exabyte (EB)
+* zettabyte (ZB) 
+* 'yottabyte' (YB)
+
+Este último, equivale a 'todas as centrais
+
+de dados, discos rígidos, pendrives e servidores de todo o mundo'. 
+
+<br/> 
+
+
+
+
+------------------------------------------------------------------------
+
+
+## Cenário Atual - Brasil
+
+<hr/>
+
+<br/> 
+
+No Brasil, atualmente, 71% da população brasileira está acessando a internet e 66% estão nas mídias sociais, como blogs, Facebook, Twitter, Instagram, SlideShare, Youtube, entre outros, realizando algum tipo de interação e assim trocando dados e informações.
+
+<br/> 
+
+![Uso digital no Brasil. Fonte: We are social.](images/ufal/1_nmIjRkimopB2YeFkitKMQA.webp){fig-align="center" width="400"}
+
+
+
+------------------------------------------------------------------------
+
+## Processo de solução com dados
+
+<hr/>
+
+![Fluxograma do processo de ciência de dados de Doing Data Science, de Schutt & O'Neil (2013)](images/EDA.png){fig-align="center" width="900"}
+
+------------------------------------------------------------------------
+
+
+## Entendimento dos dados
+
+<hr/>
+
+<!--
+![](images/image%20(3).png){.absolute top=100 right=50 border-radius= 10 width="250"}
+-->
+<img src="images/image%20(3).png" style="border-radius: 10px; top: 100px; right: 50px; position: absolute; width: 250px; height:120px;"/>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+* Dois entendimentos essências para uma boa análise com dados:
+
+<br/>
+
+<hr/>
+
+### Compreensão da problemática e  {style="text-align:center"}
+
+### Compreensão do contexto {style="text-align:center"}
+
+<hr/>
+
+<br/>
+
+------------------------------------------------------------------------
+
+## Compreensão da Problemática
+
+<hr/>
+
+<br/>
+
+
+-   É preciso ter uma visão clara do problema de negócio a ser resolvido.
+
+![](images/crisp.png){fig-align="center" width="600"}
+
+------------------------------------------------------------------------
+
+## Compreensão do Contexto
+
+<hr/>
+
+<br/>
+
+<img src="images/contexto.jpg" style="border-radius: 10px; top: 250px; right: 200px; position: absolute; width: 300px; height:157px;"/>
+
+<br/> <br/>
+
+-   Quem é seu público?
+
+<br/>
+
+-   O que você precisa que ele saiba?
+
+<br/>
+
+Compreender os dados e descobrir o que pode ser digno de nota ou interessante a destacar para outras pessoas.
+
+------------------------------------------------------------------------
+
+## Dados Tabulados (*Tidy Data*)
+
+<hr/>
+
+<br/>
+
+Mesmo sabendo que existem dados de diferentes formas, quando estamos no contexto
+de dados estrurados é importante ter essa reflexão em mente!
+
+<br/>
+
+### Reflexão: 
+
+<hr/>
+
+<br/>
+
+#### Conjuntos de dados arrumados são todos iguais, mas cada conjunto de dados bagunçado, é bagunçado de sua própria maneira.
+
+*- Hadley Wickham*
+
+<br/>
+
+<hr/>
+
+## Dados Tabulados (*Tidy Data*)
+
+<hr/>
+
+<br/> Há três regras inter-relacionadas que tornam um conjunto de dados arrumados (*tidy*):
+
+1.  Cada `variável` deve ter sua própria coluna.
+
+2.  Cada `observação` deve ter sua própria linha.
+
+3.  Cada `valor` deve ter sua própria célula.
+
+![](images/tidy_data_01.png){fig-align="center" width="400"}
+
+
+
+
+------------------------------------------------------------------------
+
+<br/> <br/> <br/> <br/> <br/>
+
+<hr/>
+<h2 style="text-align: center;">
+
+Áreas que podem se beneficiar com Ciência de Dados
+
+</h2>
+<hr/>
+
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar com Ciência de Dados
+
+<hr/>
+
+<br/>
+
+
+*  Na área da **Saúde ou Medicina**:
+
+> a ciência e a tecnologia caminham juntas há tempos,
+e nessa área podemos comentar por exemplo sobre os **dispositivos e sensores portáteis
+que conectados ao corpo enviam dados em tempo real sobre as condições de saúde de
+um paciente**, dessa forma é possível extrair diversas análises sobre os dados coletados.
+
+> Também podemos comentar sobre os avanços nos **diagnósticos de doenças como o
+câncer**, reduzindo o tempo dos exames e extinguindo a chance de erro médico, dessa
+forma quanto mais rápido o diagnóstico, maiores as chances de cura do paciente.
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar com Ciência de Dados
+
+<hr/>
+
+<br/>
+
+
+*  Na área da **Educação**:
+
+>  a tecnologia junto com as análises já alterou a forma como
+os professores ministram as aulas, substituindo livros por imersões no tema estudado
+com recursos de realidade virtual por exemplo. Através de análises e transformando-as
+em inteligência (inteligência artificial), o **progresso dos alunos podem ser indicados
+por níveis e através destes conteúdos adaptados são direcionados para cada um deles**.
+
+> Também, podemos exemplificar que através de um **sistema on-line, o aluno completando
+atividades, é possível criar um algoritmo que identifica o quanto ele aprendeu**, e vai
+traçando um plano de estudo de acordo com sua evolução.
+
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar com Ciência de Dados
+
+<hr/>
+
+<br/>
+
+
+*  Na área da **Marketing e Varejo**:
+
+>   neste caso podemos utilizar a
+ciência de dados para **personalização da compra**, que é uma experiência positiva para o
+cliente. Através de algoritmos de aprendizado, a máquina estabelece as preferências
+do público de acordo com **histórico de compras e recomendações**, assim as tomadas de
+decisões sobre as ações são mais acertadas e direcionadas para o desejo dos clientes.
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar com Ciência de Dados
+
+<hr/>
+
+<br/>
+
+
+*   Uma outra área bem conhecida na utilização da ciência de dados é com **Serviços financeiros**:
+
+> nesta área as empresas procuram **identificar padrões e informações que favoreçam a negociação**, também para facilitar a rotina das transações e **combater fraudes**, seja analisando **perfis de risco**, ou com tecnologias mais atuais como cibersegurança.
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar com Ciência de Dados
+
+<hr/>
+
+
+
+<br/>
+
+*  A área da **Relacionamento com consumidor**:
+
+>  responder e oferecer serviços a potenciais clientes era **100% humano**,
+hoje existem **os chatbots** que com
+determinados algoritmos, aprendem a cada conversa, e se tornam cada vez melhores
+em se relacionar com os clientes, dessa forma, empresas que oferecem serviços de
+integração dos chatbots com redes sociais e com sistemas de pagamento já deslumbram
+um cenário otimista.
+
+
+------------------------------------------------------------------------
+
+### Áreas que podem se beneficiar com Ciência de Dados
+
+<hr/>
+
+
+
+<br/>
+
+*  A área da **Moda**
+
+> prever tendências de compra, personalizar experiências e
+o **relacionamento com chatbots**, são benefícios
+da **ciência de dados com Inteligência Artificial** e amplamente aplicados na moda.
+Além do e-commerce, a analise dados é uma importante aliada no desenvolvimento de
+novos tecidos, através de simulações e inteligência, as reações humanas são imitadas,
+com controles sobre a transpiração.
+
+
+
+------------------------------------------------------------------------
+
+### Campos importantes para cientista de dados
+
+<hr/>
+
+<br/>
+
+<hr/>
+###  A Ciência de Dados é uma área interdisciplinar
+<hr/>
+
+<br/>
+
+Pode-se afirmar que para aplicar *ciência de dados* é preciso ter conhecimentos
+de
+
+* ***Estatística***
+* ***Computação*** e
+* principalmente ***conhecimento sobre o problema investigado*** ou
+problema de negócio, ou seja, hipóteses que necessitem de alguma resolução com ciência de
+dados
+
+>  Isto porque as ferramentas e algoritmos são baseadas nestas áreas, por isso eles são
+a essência da Ciência de Dados
+
+
+
+------------------------------------------------------------------------
+
+### Campos importantes para cientista de dados
+
+<hr/>
+
+<br/>
+<br/>
+
+Ao considerar as áreas de
+
+<br/>
+
+* ***Estatística***
+* ***Computação*** e
+*  ***Área do fenômeno em estudo***
+
+<br/>
+
+é possível destacar ***4 (quatro) pilares fundamentais*** para se tornar um cientista
+de dados
+
+
+
+------------------------------------------------------------------------
+
+### Pilares para cientista de dados
+
+<hr/>
+
+<br/>
+<br/>
+
+* **Primeiro pilar**:
+
+<br/>
+
+> Possuir **"Pensamento e raciocínio lógico matemático"**, é extremamente necessário ter a
+capacidade de realizar operações lógicas, ou seja, a capacidade de organizar dados ou
+informações para se obter um contexto, um significado e um resultado ou consequência
+
+<br/>
+
+
+------------------------------------------------------------------------
+
+### Pilares para cientista de dados
+
+<hr/>
+
+<br/>
+<br/>
+
+* **Segundo pilar**:
+
+<br/>
+
+> Em seguida, a **"Matemática e Estatística"** é a base de todos os algoritmos aplicados à
+machine learning e inteligência artificial, no qual os conceitos matemáticos e a estatística
+é característica intrínseca da ciência de dados.
+
+
+<br/>
+
+
+------------------------------------------------------------------------
+
+### Pilares para cientista de dados
+
+<hr/>
+
+<br/>
+<br/>
+
+* **Terceiro pilar**:
+
+<br/>
+
+>  Outro ponto importante é o **"Conhecimento em Programação"**, a extração de dados
+exige criatividade devido ao emaranhado de dados possíveis para um determinado fim e
+exige também formas viáveis para extração. Tanto a criatividade quanto a viabilidade
+são postas em prática a partir de programas oriundos do conhecimento de linguagens
+de programação.
+
+
+
+<br/>
+
+
+------------------------------------------------------------------------
+
+### Pilares para cientista de dados
+
+<hr/>
+
+<br/>
+<br/>
+
+* **Quarto pilar**:
+
+<br/>
+
+>  Por fim, o quarto pilar, podemos dizer que é o **"Conhecimento em Banco de dados"**,
+todos os dados disponíveis podem ser armazenados, ainda que temporariamente, para
+produzirem o conhecimento necessário para determinado fim e praticamente em quase
+todas as fases do ciclo de vida do dado pertencente à análises estarão relacionadas à
+bancos de dados, sejam estes relacionais ou não relacionais, que são assuntos que o
+cientista de dados deve dominar no seu dia a dia.
+
+
+<br/>
+
+
+------------------------------------------------------------------------
+
+## Ferramentas da área
+
+<hr/>
+
+
+![](images/ferramentas.jpg){fig-align="center" width="400"}
+
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/capa.jpg){fig-align="center" width="400"}
+
+*  Realizado **10 de outubro de 2022 e 28 de novembro de 2022** e contou com **4.270**
+respondentes em todo o Brasil
+
+Link para Estudo:
+
+- [State of Data 2022 - Um raio-x dos profissionais de dados do Brasil](https://e99c657b-32c7-4c8b-aed5-f9d1d1155ccb.usrfiles.com/ugd/e99c65_1978996ec36346c18f247bd4cb551218.pdf)
+
+
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+#### Principais resultados
+
+
+*  
+O número de profissionais com formações não relacionadas a tecnologia e exatas passou de 7,7% em 2021 para 13,5% em 2022.
+
+<br/>
+
+* O modelo preferido de trabalho dos profissionais de dados consolidou-se como o híbrido com
+dias flexíveis, com 52,6% de preferência, seguido pelo modelo 100% remoto (39,0%). Caso a
+empresa retorne ao formato totalmente presencial, 74,3% dos profissionais pretendem procurar
+outra oportunidade, híbrida ou remota. Esse número em 2021 era de 66,3%.
+
+<br/>
+
+*  Dos respondentes da pesquisa, 18,9% reportam ter havido *layoffs* em sua empresa durante 2022.
+
+
+
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/2_cargo_sexo.jpg){fig-align="center" width="400"}
+
+
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/3_nivel_instrucao_cargo.jpg){fig-align="center" width="400"}
+
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/4_empresas_admiradas_na_area_de_dados.jpg){fig-align="center" width="400"}
+
+
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/5_remuneracao_por_cargo.jpg){fig-align="center" width="400"}
+
+
+------------------------------------------------------------------------
+
+## Mercado de trabalho
+
+<hr/>
+
+![](images/state of data/6_comparacao_remuneracao_por_funcao.jpg){fig-align="center" width="400"}
+
+
+------------------------------------------------------------------------
+
+
+
+## Para concluir
+
+<hr/>
+> Os cientistas de dados combinam **empreendedorismo com paciência**, vontade de construir produtos de
+dados de forma incremental, **capacidade de explorar e capacidade de iterar sobre
+uma solução**. São inerentemente interdisciplinares. Eles podem lidar com todos
+os aspectos de um problema, desde a **coleta inicial de dados e condicionamento
+de dados até a obtenção de conclusões**. Eles podem pensar fora da caixa para
+encontrar novas maneiras de ver o problema ou trabalhar com problemas definidos
+de maneira muito ampla, eles devem estar prontos para o seguinte questionamento:
+
+
+> ***'Aqui estão os dados, o que você pode fazer com eles?'***
+
+<hr/>
+
+**Mike Loukides**
+
+vice-presidente de estratégia de conteúdo da O’Reilly Media
+
+
+------------------------------------------------------------------------
+
+
+
+## Referências
+
+<hr/>
+
+Link para Texto sobre Privacidade e Proteção de dados:
+
+- https://contatostepps.medium.com/privacidade-e-prote%C3%A7%C3%A3o-de-dados-entenda-a-import%C3%A2ncia-desses-conceitos-na-ind%C3%BAstria-4-0-aa27d5c1f872
+
+Livros:
+
+-   R para Data Science
+-   Data Science do zero
+-   Estatística e Ciêcia de Dados
+
+
+------------------------------------------------------------------------
+
+<br/> <br/>
+
+<hr/>
+
+<h1 style="text-align: center;">
+
+OBRIGADO!
+
+</h1>
+
+<hr/>
+
+::: {style="text-align: center"}
+Slide produzido com [quarto](https://quarto.org/)
+:::
+
+<br/> <br/> <br/> <br/>
+
+**Lattes**: [http://lattes.cnpq.br/4617170601890026](http://lattes.cnpq.br/4617170601890026)
+
+**LinkedIn**: [jodavidferreira](https://www.linkedin.com/in/jodavidferreira/)
+
+**Site Pessoal**: <https://jodavid.github.io/>
+
+**Instagram**: [jodavidferreira](https://www.instagram.com/jodavidferreira/)
